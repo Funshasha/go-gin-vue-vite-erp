@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa488528-9900-4885-94d4-6cc24a2b70e7" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/go+vue_erp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_erp_demo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_erp_demo/.idea/go_crud_demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_erp_demo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_erp_demo/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_erp_demo/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_erp_demo/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_erp_demo/tmp/runner-build.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue3_rep_demo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue3_rep_demo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue3_rep_demo/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue3_rep_demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue3_rep_demo/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue3_rep_demo/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue3_rep_demo/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue3_rep_demo/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue3_rep_demo/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3_rep_demo" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +23,7 @@
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../gobao" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue3_erp_demo" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -61,6 +47,7 @@
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "D:/projeck_all/go+vue_erp",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
@@ -103,6 +90,29 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
